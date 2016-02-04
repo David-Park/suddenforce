@@ -1,0 +1,18 @@
+<webcam deviceName="HP Truevision HD">
+    <windows>
+        <!-- size of the web cam texture requested from Unity -->
+        <requestedTextureWidth>640</requestedTextureWidth>
+        <requestedTextureHeight>480</requestedTextureHeight>
+        <!-- size of the texture Unity's web cam texture will be rescaled to -->
+        <resampledTextureWidth>640</resampledTextureWidth>
+        <resampledTextureHeight>480</resampledTextureHeight>
+    </windows>
+    <osx>
+        <!-- size of the web cam texture requested from Unity -->
+        <requestedTextureWidth>640</requestedTextureWidth>
+        <requestedTextureHeight>360</requestedTextureHeight>
+        <!-- size of the texture Unity's web cam texture will be rescaled to -->
+        <resampledTextureWidth>640</resampledTextureWidth>
+        <resampledTextureHeight>360</resampledTextureHeight>
+    </osx>
+</webcam>
